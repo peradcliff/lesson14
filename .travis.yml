@@ -6,4 +6,4 @@ python:
 install:
   - "pip install pytest"
   - "pip install pytest-bdd"
-script: python -m pytest retirement
+script: python -m pytest retirementinfo
